@@ -2,8 +2,8 @@
 .vscode/
 
 # Build artifacts
-build/
-JUCE/build/
+/build/
+/JUCE/build/
 *.exe
 *.vst3
 *.component
