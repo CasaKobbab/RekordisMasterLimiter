@@ -1,0 +1,24 @@
+# VS Code
+.vscode/
+
+# Build artifacts
+build/
+JUCE/build/
+*.exe
+*.vst3
+*.component
+*.aaxplugin
+
+# Visual Studio files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Mac
+.DS_Store
+
+# CMake caches
+CMakeCache.txt
+CMakeFiles/
